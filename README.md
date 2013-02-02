@@ -1,6 +1,7 @@
 SportsDevil-Fixes
 =================
 
+
 livesports
 
 	Windows
@@ -11,6 +12,7 @@ livesports
 
 	Android
 	/sdcard/Android/data/org.xbmc.xbmc/files/.xbmc/addons/plugin.video.SportsDevil/resources/modules/livesports
+
 
 tv
 	
@@ -24,6 +26,7 @@ tv
 	/sdcard/Android/data/org.xbmc.xbmc/files/.xbmc/addons/plugin.video.SportsDevil/resources/modules/tv
 
 
+
 modules
 
 	Windows
@@ -34,6 +37,7 @@ modules
 
 	Android
 	/sdcard/Android/data/org.xbmc.xbmc/files/.xbmc/addons/plugin.video.SportsDevil/resources/modules
+
 
 
 custom module
